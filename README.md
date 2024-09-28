@@ -4,7 +4,7 @@
 
 ![view](https://github.com/user-attachments/assets/6d58d945-195b-430c-bdc9-f861bb002bbc)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+
 
 - [Demo Project](https://rahimitabarshiva.github.io/Creating-My-First-Vertical-Dropdown-Menu/)
 
